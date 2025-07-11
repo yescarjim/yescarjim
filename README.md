@@ -1,18 +1,18 @@
 
-# titulo principal
-## titulo secundario
-### parrafo de presentacion
 
 <Titulo principal de presentacion>
-<h1> align="center" Hola! Hola ! </h1>
-<h2> aling="center"Encantada de Saludarlos </h1>
+<h1>  YESMY CAROLINA JIMÉNEZ ARIAS </h1>
+<h2> Encantada de Saludarlos </h1>
 
 
-* Mucho gusto Mi nombre es Yesmy carolina Jimenez.
+<p> Soy una persona apasionada por el aprendizaje y la exploración de nuevos temas,con un interes particular en la tecnologia, estoy estudiando para ser desarollador web Full Stack.
 
-* Soy diseñador Grafico
-* Me gusta mucho la tecnologia
-* 
+
+* Soy Diseñador Grafico.
+* Me gusta mucho la tecnologia.
+* Aprendo rapido.
+* Me gustan los retos.
+* Me encanta aprender.
 
 -------------
 <hr>
