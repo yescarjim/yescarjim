@@ -5,7 +5,7 @@
 
 
 <p> Soy una persona apasionada por el aprendizaje y la exploración
-de nuevos temas,con un interes particular en la tecnologia,
+ de nuevos temas,con un interes particular en la tecnologia,
 estoy estudiando para ser desarollador web Full Stack.
 
 
